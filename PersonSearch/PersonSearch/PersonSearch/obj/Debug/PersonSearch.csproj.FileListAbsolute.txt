@@ -1,0 +1,11 @@
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\bin\Debug\PersonSearch.exe.config
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\bin\Debug\PersonSearch.exe
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\bin\Debug\PersonSearch.pdb
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.csproj.AssemblyReference.cache
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.Form1.resources
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.Properties.Resources.resources
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.csproj.GenerateResource.cache
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.csproj.CoreCompileInputs.cache
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.exe
+C:\Users\SHIKI_TOMA\source\repos\PersonSearch\PersonSearch\obj\Debug\PersonSearch.pdb

@@ -1,0 +1,15 @@
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\bin\Release\net6.0\FindPrime.exe
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\bin\Release\net6.0\FindPrime.deps.json
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\bin\Release\net6.0\FindPrime.runtimeconfig.json
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\bin\Release\net6.0\FindPrime.dll
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\bin\Release\net6.0\FindPrime.pdb
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.csproj.AssemblyReference.cache
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.GeneratedMSBuildEditorConfig.editorconfig
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.AssemblyInfoInputs.cache
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.AssemblyInfo.cs
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.csproj.CoreCompileInputs.cache
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.dll
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\refint\FindPrime.dll
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.pdb
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\FindPrime.genruntimeconfig.cache
+\\serverfile1\Common\ゼミ\プログラミング演習\2022\第1回\FindPrime_ShikiToma\FindPrime\obj\Release\net6.0\ref\FindPrime.dll
